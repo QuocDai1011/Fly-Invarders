@@ -1,0 +1,89 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures (Unity profiler)
+MemoryCaptures/
+
+# Asset meta data (chỉ giữ .meta, không ignore)
+!*.meta
+
+# =========================
+# Visual Studio / Rider
+# =========================
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider
+.idea/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Unity cache & auto-generated
+# =========================
+*.apk
+*.aab
+*.unitypackage
+
+# Crash reports
+sysinfo.txt
+
+# =========================
+# Addressables (nếu dùng)
+# =========================
+ServerData/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary files
+# =========================
+*.bak
+*.swp
+*.orig
+
+# =========================
+# Build results
+# =========================
+*.exe
+*.dll
+
+# =========================
+# JetBrains Rider plugin (Unity)
+# =========================
+.idea/
+*.sln.iml
+
+# =========================
+# VS Code (nếu dùng thêm)
+# =========================
+.vscode/
