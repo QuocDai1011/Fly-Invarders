@@ -34,7 +34,7 @@ Người chơi điều khiển nhân vật để tiêu diệt kẻ địch và s
 1. Mở **Unity Hub**
 2. Chọn **Open Project**
 3. Trỏ đến thư mục project
-4. Nhấn **Play** trong Unity Editor để chạy game
+4. Nhấn **Play** trong **Unity Editor (Version 2022.3.62f3)** để chạy game
 
 ---
 
